@@ -6,3 +6,4 @@
 
 printf ФИОзнак зодиака Дева 
 год быка
+https://vk.com/imunefatal
